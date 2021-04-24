@@ -2,7 +2,7 @@
 I created a notes taking website with React JS to practice my React Skills
 
 # Demo
-Not available yet
+https://gracious-wing-57c3e6.netlify.app/
 
 # How to use?
 1. Simply clone the repo or download it
