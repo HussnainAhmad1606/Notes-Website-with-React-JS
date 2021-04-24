@@ -1,0 +1,14 @@
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+Header ul {
+    display: flex;
+    list-style: none;
+}
+
+Header ul li a {
+    text-decoration: none;
+}
